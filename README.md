@@ -18,15 +18,9 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/alyaa17/" target="_blank">
-  <img src="https://img.shields.io/badge/Alyaa%20Mobarak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://t.me/@Aluaaaaa12" target="_blank">
-  <img src="https://img.shields.io/badge/Alyaa%20Mobarak-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-<a href="https://github.com/alyaa17" target="_blank">
-  <img src="https://img.shields.io/badge/Alyaa%20Mobarak-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+You said:
+<a href="https://linkedin.com/in/alyaa17/" target="_blank"><img src="https://img.shields.io/badge/Alyaa%20Mobarak-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/@Aluaaaaa12" target="_blank"><img src="https://img.shields.io/badge/Alyaa%20Mobarak-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 
